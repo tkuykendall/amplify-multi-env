@@ -1,0 +1,7 @@
+{
+    "master": {
+        "configLevel": "project",
+        "useProfile": false,
+        "awsConfigFilePath": "/Users/timothykuykendall/.amplify/awscloudformation/aYT2wPtn1L"
+    }
+}
